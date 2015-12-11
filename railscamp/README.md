@@ -37,8 +37,9 @@ One you have a quote, send the quote the Ruby Australia Treasurer and run it by 
 
 ## Budgeting
 
-  - ticket pricing
-  - building in a buffer
+The most important choice you will make for budgeting is figuring out your ticket pricing. Take the amount per head provided by the camp and add ~$50.
+
+Another good portion of your budget will come from sponsorship. But because you won't know how much sponsorship you can get when you're starting to plan, the best idea is to have stretch goals. This is discussed further in the sponsorship section.
 
 ## Tickets
 
@@ -56,12 +57,34 @@ One you have a quote, send the quote the Ruby Australia Treasurer and run it by 
 
 ## Sponsorship
 
-  - transport (coaches / trains / minibuses to and from the airport)
-  - diversity tickets
-  - soft drinks and alcoholic drinks
-  - coffee, coffee machines and/or barista
+You want to target your sponsorship towards funding "extras" such as:
+
+- transport (coaches / trains / minibuses to and from the airport)
+- diversity tickets
+- soft drinks and alcoholic drinks
+- coffee, tea, coffee machines and/or barista
+
+You could also consider:
+
+- special meals like bbqs or brisket?
+- a fancier selection of drinks
+- hipster food trucks
+- some other amazing thing?
+
+If you are confident you can get significant sponsorship you could consider subsidising the ticket price.
 
 ## Catering
+
+Often the camp itself will provide food, but the catering is often targeted towards school children who are active all day instead of a group of sedentary adults. Here's a rough guideline:
+
+- less carbs
+- more fresh veg
+- simple whole foods
+
+Ask the venue if you can bring in an external caterer.
+Ask the venue if you can approve/adjust the menu several months before the camp.
+Make sure to emphasise to the camp and the caterers that this isn't a group of school kids. Pasta should not be in every meal, eggs must be cooked fresh etc.
+Have fresh fruit available at all times during the camp.
 
 ## Drinks
 
@@ -93,4 +116,4 @@ Yes. Your ticket prices must include GST. 10% of the ticket price is not yours t
 
 - Where can I get hold of the @railscamp_au Twitter account details?
 
-Contact the previous Rails Camp organizers.
+Contact the previous Rails Camp organizers. Ruby AU is working on a better thing for this.
