@@ -12,7 +12,7 @@ This document is open source. Organisers new and old are encouraged to submit en
 
 ## Becoming an organiser
 
-There is no official organiser selection process as such, but often the organiser(s) for the next Rails Camp volunteer at a Ruby Australia AGM at the current Rails Camp.
+There is no official organiser selection process as such, but often the organiser(s) for the next Rails Camp volunteer at a Ruby Australia AGM at the current Rails Camp. First preference is usually given to the states and territories that haven't hosted before (or have had the longest break since last hosting), but only if there are volunteers for that state/territory.
 
 For example, during the Ruby Australia AGM at Rails Camp Perth in November 2014, Leonard Garvey volunteered to run the Rails Camp Sydney event that eventually took place in June 2015.
 
