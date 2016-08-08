@@ -139,7 +139,7 @@ You will likely want to offer the following tickets:
 
 If camping in tents is an option at the venue, and results in a lower venue cost for those attendees, you may wish to offer camping tickets at a slightly discounted rate as well.
 
-Early-bird tickets are another option, though may be unneccesary.
+Early-bird tickets are another option, though may be unnecessary.
 
 If your venue is smaller than usual (holding fewer than 100 people) and a high demand is expected, there is also the option of running a ticket ballot: people can enter the ballot before a well-publicised deadline, and then tickets are randomly allocated. Previous camp organisers may have code you can re-use for this purpose.
 
