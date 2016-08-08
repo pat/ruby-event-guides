@@ -37,17 +37,40 @@ One you have a quote, send the quote the Ruby Australia Treasurer and run it by 
 
 ## Budgeting
 
-The most important choice you will make for budgeting is figuring out your ticket pricing. Take the amount per head provided by the camp and add ~$50.
+Camp budget templates can be supplied by previous organisers, which will provide a good starting point.
 
-Another good portion of your budget will come from sponsorship. But because you won't know how much sponsorship you can get when you're starting to plan, the best idea is to have stretch goals. This is discussed further in the sponsorship section.
+Income will likely come from two sources:
+
+* Tickets
+* Sponsorship
+
+Expenses will include some/most of the following:
+
+* Venue
+* Food
+* Buses
+
+All of these items are discussed below in more detail.
 
 ## Tickets
 
-  - Choose a ticketing provider. Previous choices have been Pin Payments and ti.to (which others?)
-  - Ruby Australia has a Pin Payments account and a ti.to account. Either of which you can use to charge money.
-  - Factor in the ticketing provider's fee into your budget.
-  - Do not forget to account for GST in costs
-  - GST must be charged. Ruby Australia is a non-profit, but it still must pay sales tax.
+Ruby Australia has existing accounts for the payment gateway Pin Payments, and the ticketing service Tito, so it is perhaps easiest to leverage these. No matter who you go with, though, you will need to factor in fees for both into your budget.
+
+You will also need to charge GST for your tickets - due to the size of Ruby Australia's yearly income, it is required to collect GST. Again, factor this into your budget accordingly.
+
+You will likely want to offer the following tickets:
+
+* Full
+* Concession
+* Scholarship/Diversity
+
+If camping in tents is an option at the venue, and results in a lower venue cost for those attendees, you may wish to offer camping tickets at a slightly discounted rate as well.
+
+Early-bird tickets are another option, though may be unneccesary.
+
+If your venue is smaller than usual (holding fewer than 100 people) and a high demand is expected, there is also the option of running a ticket ballot: people can enter the ballot before a well-publicised deadline, and then tickets are randomly allocated. Previous camp organisers may have code you can re-use for this purpose.
+
+When running a ballot, Ruby Australia committee should be given reserved places (if they wish to attend) for the purpose of the General Meeting that will take place.
 
 ## Website
 
@@ -57,7 +80,9 @@ Another good portion of your budget will come from sponsorship. But because you 
 
 ## Sponsorship
 
-You want to target your sponsorship towards funding "extras" such as:
+Ruby Australia provides financial sponsorship through their yearly sponsorship packages used to support all events over the course of a year. The committee will be able to give you a dollar value for this, and provide the details of associated sponsors and their logos, and any particular initiatives their funds should go towards.
+
+Alongside that, you're welcome (and indeed, encouraged) to ask organisations for further support to help offset the ticket costs. It can be useful to have these additional sponsors pay for specific camp expenses, such as:
 
 - transport (coaches / trains / minibuses to and from the airport)
 - diversity tickets
