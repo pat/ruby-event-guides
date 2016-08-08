@@ -4,6 +4,8 @@
 
 This document is open source. You're welcome to open issues with any questions you might have, and if you've organised Rails Camps (or other events) before, please do submit pull requests with any details you feel should be covered but aren't.
 
+The Ruby Australia committee can be contacted by emailing [committee@ruby.org.au](mailto:committee@ruby.org.au).
+
 ## So you want to run a Rails Camp!
 
 This guide is meant to give a potential organiser a reasonably detailed list of things that must be considered when planning and running a Rails Camp.
