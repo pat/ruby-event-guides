@@ -12,12 +12,32 @@ It is super important that an organiser does not rely on *only* this document. T
 
 ## Becoming an organiser
 
-There is no official organiser selection process as such, but often the organiser(s) for the next Rails Camp volunteer at a Ruby Australia AGM at the current Rails Camp. First preference is usually given to the states and territories that haven't hosted before (or have had the longest break since last hosting), but only if there are volunteers for that state/territory.
+There is no official organiser selection process as such, but often the organiser(s) for the next Rails Camp volunteer at a Ruby Australia AGM at the current Rails Camp. For example, during the Ruby Australia AGM at Rails Camp Perth in November 2014, Leonard Garvey volunteered to run the Rails Camp Sydney event that eventually took place in June 2015.
 
-For example, during the Ruby Australia AGM at Rails Camp Perth in November 2014, Leonard Garvey volunteered to run the Rails Camp Sydney event that eventually took place in June 2015.
+First preference is usually given to the states and territories that haven't hosted before (or have had the longest break since last hosting), but only if there are volunteers for that state/territory.
 
-Do not be a solo organiser! The majority of Rails Camps are organized by two or three core volunteers. Do not underestimate the amount of work it takes, especially closer to the date of the event.
+Anyone who is interested in volunteering should get in touch with the Ruby Australia committee to see what plans are in place for future camps and get your offer on their radar. If you have some fellow volunteers to work with, that's even better. A core team of two or three people is highly recommended - running a Rails Camp is a lot of work!
 
+## Now that you're an organiser, what's next?
+
+Your first steps should be:
+
+* Rope in some fellow volunteers to help organise
+* Find potential venues in your chosen area and timeframe
+* Put together a budget
+
+Please keep in mind that previous organisers and the Ruby Australia committee will all be happy to provide feedback along the way.
+
+## Venue Considerations
+
+* What kinds of venues to consider.
+* Availability and Scheduling (keep in mind other related events: RubyConf AU, Rails Camp NZ, CampJS, ElixirCamp, Web Directions, etc)
+* Accessibility (both for people with a variety of needs, and how people can get there)
+* Capacity
+* Is camping in tents allowed?
+* Facilities (rooms for dining, coding, sessions, games, solitude)
+* Alcohol Policy
+* First Aid (what's provided by the venue, what do you need to provide)
 
 ## Typical timeline
 
