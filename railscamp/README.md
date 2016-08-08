@@ -1,14 +1,14 @@
 # Rails Camp
 
+## Updates and Contributions
+
+This document is open source. You're welcome to open issues with any questions you might have, and if you've organised Rails Camps (or other events) before, please do submit pull requests with any details you feel should be covered but aren't.
+
 ## So you want to run a Rails Camp!
 
 This guide is meant to give a potential organiser a reasonably detailed list of things that must be considered when planning and running a Rails Camp.
 
 It is super important that an organiser does not rely on *only* this document. Talk to previous organisers and seek the help of Ruby Australia for advice and support when you need it.
-
-## Keeping this document up to date
-
-This document is open source. Organisers new and old are encouraged to submit enhancements.
 
 ## Becoming an organiser
 
