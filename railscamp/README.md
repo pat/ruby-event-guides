@@ -2,21 +2,21 @@
 
 ## So you want to run a Rails Camp!
 
-This guide is meant to give a potential organizer a reasonably detailed list of things that must be considered when planning and running a Rails Camp.
+This guide is meant to give a potential organiser a reasonably detailed list of things that must be considered when planning and running a Rails Camp.
 
-It is super important that an organizer does not rely on *only* this document. Talk to previous organizers and seek the help of Ruby Australia for advice and support when you need it.
+It is super important that an organiser does not rely on *only* this document. Talk to previous organisers and seek the help of Ruby Australia for advice and support when you need it.
 
 ## Keeping this document up to date
 
-This document is open source. Organizers new and old are encouraged to submit enhancements.
+This document is open source. Organisers new and old are encouraged to submit enhancements.
 
-## Becoming an organizer
+## Becoming an organiser
 
-There is no official organizer selection process as such, but often the organizer(s) for the next Rails Camp volunteer at a Ruby Australia AGM at the current Rails Camp.
+There is no official organiser selection process as such, but often the organiser(s) for the next Rails Camp volunteer at a Ruby Australia AGM at the current Rails Camp.
 
 For example, during the Ruby Australia AGM at Rails Camp Perth in November 2014, Leonard Garvey volunteered to run the Rails Camp Sydney event that eventually took place in June 2015.
 
-Do not be a solo organizer! The majority of Rails Camps are organized by two or three core volunteers. Do not underestimate the amount of work it takes, especially closer to the date of the event.
+Do not be a solo organiser! The majority of Rails Camps are organized by two or three core volunteers. Do not underestimate the amount of work it takes, especially closer to the date of the event.
 
 
 ## Typical timeline
@@ -106,7 +106,7 @@ Have fresh fruit available at all times during the camp.
 
 All costs should ideally be covered by ticket sales and sponsorship. However, it's likely that some extra unforeseen costs will come up during the camp itself, or for things that are planned but must be purchased personally before being reimbursed by Ruby Australia.
 
-For example, an additional $1500 AUD was spent by the organizers of Rails Camp Sydney during the event to cover the cost of additional alcohol, and more for transport and catering supplies, the cost of which was reimbursed by Ruby Australia a couple of days after the event.
+For example, an additional $1500 AUD was spent by the organisers of Rails Camp Sydney during the event to cover the cost of additional alcohol, and more for transport and catering supplies, the cost of which was reimbursed by Ruby Australia a couple of days after the event.
 
 - Does Ruby Australia have insurance that covers the event? Is additional insurance required?
 
@@ -116,4 +116,4 @@ Yes. Your ticket prices must include GST. 10% of the ticket price is not yours t
 
 - Where can I get hold of the @railscamp_au Twitter account details?
 
-Contact the previous Rails Camp organizers. Ruby AU is working on a better thing for this.
+Contact the previous Rails Camp organisers. Ruby AU is working on a better thing for this.
