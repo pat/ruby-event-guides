@@ -104,16 +104,16 @@ Have fresh fruit available at all times during the camp.
 
 - Will I need to cover any costs myself?
 
-All costs should ideally be covered by ticket sales and sponsorship. However, it's likely that some extra unforeseen costs will come up during the camp itself, or for things that are planned but must be purchased personally before being reimbursed by Ruby Australia.
+  All costs should ideally be covered by ticket sales and sponsorship. However, it's likely that some extra unforeseen costs will come up during the camp itself, or for things that are planned but must be purchased personally before being reimbursed by Ruby Australia.
 
-For example, an additional $1500 AUD was spent by the organisers of Rails Camp Sydney during the event to cover the cost of additional alcohol, and more for transport and catering supplies, the cost of which was reimbursed by Ruby Australia a couple of days after the event.
+  For example, an additional $1500 AUD was spent by the organisers of Rails Camp Sydney during the event to cover the cost of additional alcohol, and more for transport and catering supplies, the cost of which was reimbursed by Ruby Australia a couple of days after the event.
 
 - Does Ruby Australia have insurance that covers the event? Is additional insurance required?
 
 - Do I *have to* charge GST?
 
-Yes. Your ticket prices must include GST. 10% of the ticket price is not yours to spend. Budget for this.
+  Yes. Your ticket prices must include GST. 10% of the ticket price is not yours to spend. Budget for this.
 
 - Where can I get hold of the @railscamp_au Twitter account details?
 
-Contact the previous Rails Camp organisers. Ruby AU is working on a better thing for this.
+  Contact the previous Rails Camp organisers. Ruby AU is working on a better thing for this.
