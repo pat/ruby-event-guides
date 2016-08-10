@@ -189,20 +189,26 @@ When running a ballot, Ruby Australia committee should be given reserved places 
 
 ## Communication
 
+If you've got a venue and dates confirmed, then it's time to start spreading the word. You'll likely want a website for the camp itself, plus an updated listing on [railscamps.com](http://railscamps.com), and then you can start spreading the word through mailing lists, Twitter, meets, etc.
+
 ### Website
 
- - dates
- - tickets
- - code of conduct
- - transport plan
+Once you've got the dates locked down for the venue, it's time to get a basic website up. Initially it should outline the date, location, and the Code of Conduct (which is Ruby Australia's).
+
+When it's time to release tickets, you'll want those on the website, and it's also recommended to have transport plans listed sooner rather than later, so people can book their flights to match the bus times.
+
+Using an existing Rails Camp site is likely an excellent place to start! You can go all out if you really want, but at the end of the day people aren't going to care much if it's not shiny.
  
 ### Promotion
 
-* Ruby or Rails Oceania
-* Ruby Australia Slack
-* Twitter (@railscamp_au, @rubyaustralia)
+These are just some suggestions on where to promote the Rails Camp:
+
+* [Australian](http://ruby.org.au) and [New Zealand](http://ruby.nz) Ruby meets
+* [Ruby or Rails Oceania](https://groups.google.com/forum/#!forum/rails-oceania) and [Rails Camp](https://groups.google.com/forum/#!forum/railscamp) Google groups
+* [Ruby Australia Slack](https://rubyau-slack.herokuapp.com)
+* Twitter ([@railscamp_au](https://twitter.com/railscamp_au), [@rubyaustralia](https://twitter.com/rubyaustralia))
 * Rails Girls
-* Universities
+* Universities (especially to promote the concession tickets)
 
 ## Sponsorship
 
