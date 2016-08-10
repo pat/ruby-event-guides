@@ -103,13 +103,9 @@ Most venues will require event insurance. Ruby Australia has an insurance policy
 * Venue emergency procedure
 * People with cars to transport anyone injured, etc
 
-## Typical timeline
+### Getting a Quote
 
-### 6+ months before the event
-
-#### Find a venue
-
-Get a written quote. It should state the following:
+If you're seriously considering a venue, get a written quote from them. It should state the following:
 
   - the deposit amount
   - whether not GST is inclusive/exclusive
@@ -117,9 +113,19 @@ Get a written quote. It should state the following:
   - the maximum number of attendees
   - whether catering is included or additional
 
-One you have a quote, send the quote the Ruby Australia Treasurer and run it by them.  If it is all reasonable then ask the venue for an invoice, send it through to the treasure and it will get paid. Once that happens, it's all official.
+Once you have quotes from all your potential venues, decide on which is going to be the best fit. Then, discuss this venue with the Ruby Australia treasurer and anyone else you'd like feedback from. If it is all reasonable then ask the venue for an invoice, send that invoice through to the treasurer and it will get paid. Congratulations, you now have a confirmed venue! This might be the time to announce the dates so potential attendees can plan accordingly.
 
 ## Planning
+
+### Timeline
+
+This is a rough guide - if you fall behind it's not the end of the world, but certainly good to be on top of things sooner rather than later!
+
+* 6 months out: confirm a venue
+* 4 months out: release tickets
+* 1 month out: close registrations
+* 2 weeks out: confirm numbers with the venue and caterers
+* Monday evening after the camp: collapse into bed after a job well done.
 
 ### Budget
 
