@@ -294,6 +294,18 @@ There's a decent chance some attendees will drive as well, and they are often ha
 
 ### Internships / Buddy system
 
+## Schedule
+
+### Opening Remarks
+
+### Sessions
+
+### Ruby Australia General Meeting
+
+### Show & Tell
+
+### Closing Remarks
+
 ## FAQ
 
 - Am I personally exposed to financial risk if I make a mistake with budgeting?
