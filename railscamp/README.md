@@ -100,8 +100,9 @@ Most venues will require event insurance. Ruby Australia has an insurance policy
 
 ### Emergency Plans
 
-* Venue emergency procedure
-* People with cars to transport anyone injured, etc
+Make sure you're across the emergency evacuation procedure for the venue, and that you or a member of the venue staff explains that on the Friday evening opening remarks.
+
+It's also handy to have one of your organising team with a car in case anyone needs to urgently get back to civilisation (for example: in the case of injury).
 
 ### Getting a Quote
 
@@ -113,7 +114,9 @@ If you're seriously considering a venue, get a written quote from them. It shoul
   - the maximum number of attendees
   - whether catering is included or additional
 
-Once you have quotes from all your potential venues, decide on which is going to be the best fit. Then, discuss this venue with the Ruby Australia treasurer and anyone else you'd like feedback from. If it is all reasonable then ask the venue for an invoice, send that invoice through to the treasurer and it will get paid. Congratulations, you now have a confirmed venue! This might be the time to announce the dates so potential attendees can plan accordingly.
+Once you have quotes from all your potential venues, decide on which is going to be the best fit. Then, discuss this venue with the Ruby Australia treasurer and anyone else you'd like feedback from.
+
+If it is all reasonable then ask the venue for an invoice, send that invoice through to the treasurer and it will get paid. Congratulations, you now have a confirmed venue! This might be the time to announce the dates so potential attendees can plan accordingly.
 
 ## Planning
 
