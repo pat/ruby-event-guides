@@ -36,7 +36,7 @@ Please keep in mind that previous organisers and the Ruby Australia committee wi
 
 Rails Camps are generally run at venues that cater for large groups with dormitory rooms. Often, their usual clients are school groups or scouts. They're usually pretty lo-fi - shared bathrooms, basic bedding, etc. The advantages are that these venues can sometimes hold 150+ people, and usually are not particularly expensive.
 
-Researching for venues can sometimes be tricky - but searching for school and scout campsites is a good place to start.
+Researching for venues can sometimes be tricky - but searching for school and scout campsites is a good place to start. It's _highly recommended_ that you visit the venue if at all possible to confirm it's going to be fit for purpose.
 
 ### Scheduling
 
