@@ -108,7 +108,7 @@ Get a written quote. It should state the following:
 
 One you have a quote, send the quote the Ruby Australia Treasurer and run it by them.  If it is all reasonable then ask the venue for an invoice, send it through to the treasure and it will get paid. Once that happens, it's all official.
 
-## Budgeting
+## Budgeting and Finances
 
 Camp budget templates can be supplied by previous organisers, which will provide a good starting point.
 
@@ -120,10 +120,12 @@ Income will likely come from two sources:
 Expenses will include some/most of the following:
 
 * Venue
-* Food
-* Buses
+* Catering
+* Transport
 
-All of these items are discussed below in more detail.
+All of these items are discussed in their respective sections of this guide.
+
+You will also have the assistance of the Ruby Australia treasurer for issuing and paying any invoices required for the event.
 
 ## Tickets
 
