@@ -42,6 +42,8 @@ Researching for venues can sometimes be tricky - but searching for school and sc
 
 Rails Camps in Australia run from Friday afternoon through to Monday morning, and occur in the middle of the year (June or July), or towards the end of the year (usually November, sometimes December). So, that should give you a decent timeframe for enquiring about available weekends.
 
+It's worth keeping in mind the weather. While we've not been perfect at this, there's a rough goal of having southern camps in November, and northern camps in June/July, which generally leads to the more pleasant conditions.
+
 You'll also want to check about related events that may potentially conflict, including:
 
 * [RubyConf AU](http://rubyconf.org.au)
@@ -92,6 +94,15 @@ Some campsites - especially those aimed at children, or those run by religious a
 
 Most venues will have first aid supplies, but it's worth confirming. You should also check if they'll have any staff members on-site who are certified to provide first aid. Otherwise, you'll need to find some attendees who can volunteer in this capacity.
 
+### Insurance
+
+Most venues will require event insurance. Ruby Australia has an insurance policy for this very purpose which you should use.
+
+### Emergency Plans
+
+* Venue emergency procedure
+* People with cars to transport anyone injured, etc
+
 ## Typical timeline
 
 ### 6+ months before the event
@@ -108,7 +119,9 @@ Get a written quote. It should state the following:
 
 One you have a quote, send the quote the Ruby Australia Treasurer and run it by them.  If it is all reasonable then ask the venue for an invoice, send it through to the treasure and it will get paid. Once that happens, it's all official.
 
-## Budgeting and Finances
+## Planning
+
+### Budget
 
 Camp budget templates can be supplied by previous organisers, which will provide a good starting point.
 
@@ -125,7 +138,19 @@ Expenses will include some/most of the following:
 
 All of these items are discussed in their respective sections of this guide.
 
+### Invoices
+
 You will also have the assistance of the Ruby Australia treasurer for issuing and paying any invoices required for the event.
+
+### Attendees
+
+Numbers vary for camps for a variety of reasons - the location, the dates, people's interests changing, etc. It's not unexpected for a camp to have 100+ attendees, but excellent camps have been run with 50 attendees. It's recommended you opt for a modest number as part of your planning for breaking even (and previous organisers can help suggest what that might be).
+
+### Deadlines
+
+* Break-even points
+* Closing ticket sales
+* Confirming numbers to venue and caterers
 
 ## Tickets
 
@@ -143,15 +168,32 @@ If camping in tents is an option at the venue, and results in a lower venue cost
 
 Early-bird tickets are another option, though may be unnecessary.
 
+### Ballots
+
 If your venue is smaller than usual (holding fewer than 100 people) and a high demand is expected, there is also the option of running a ticket ballot: people can enter the ballot before a well-publicised deadline, and then tickets are randomly allocated. Previous camp organisers may have code you can re-use for this purpose.
 
 When running a ballot, Ruby Australia committee should be given reserved places (if they wish to attend) for the purpose of the General Meeting that will take place.
 
-## Website
+### Deadlines
+
+### Scholarship / Diversity Tickets
+
+## Communication
+
+### Website
 
  - dates
  - tickets
  - code of conduct
+ - transport plan
+ 
+### Promotion
+
+* Ruby or Rails Oceania
+* Ruby Australia Slack
+* Twitter (@railscamp_au, @rubyaustralia)
+* Rails Girls
+* Universities
 
 ## Sponsorship
 
@@ -203,9 +245,15 @@ The usual approach for drinks is to provide a variety of beers, ciders, teas, ju
 
 A dry (alcohol-free) camp has not yet been run. That doesn't mean it shouldn't, but if you make this decision, you should make it _very_ clear on the website and other event notices. Discussing this with past organisers is wise.
 
+Or, you could let everyone bring their own alcohol, and not supply any. Again, this would be something to make extra clear in communications, and it'd be wise to add a battleship stop for the bus journey to the venue.
+
 Some camps in the past have used kegs for beer and cider. This has proved to be problematic: you become reliant on equipment you and other attendees might not be familiar with, those who do get trained on the equipment must always be present (and reasonably sober), and it might be harder to offload any unused kegs.
 
 Approaches to coffee have varied. The extremely hardcore will bring their own gear, but usually at least an espresso machine is provided. Sometimes a barista is hired to be on-site for Saturday and Sunday (within given hours, or staying on-site if they're particularly keen).
+
+### Food Delivery
+
+If you're planning on bringing a lot of food and/or drink to the event (e.g. snacks and drinks), it's worthwhile checking whether supermarket delivery services (Coles, Woolworths, etc) cover the area. This can potentially save you a lot of transport hassle (though you'll need to manage leftover supplies yourself).
 
 ## Transport
 
@@ -213,9 +261,17 @@ Approaches to coffee have varied. The extremely hardcore will bring their own ge
 
 ### Flights to the appropriate airport
 
+### During the camp
+
+You or other organisers should have a car or two available during the event for any emergencies, or to go get extra supplies should you run out of something.
+
+There's a decent chance some attendees will drive as well, and they are often happy to help out with lifts and errands.
+
 ## Optional camp activities
 
 ## Equipment
+
+### Projectors
 
 ### Power Cables
 
@@ -223,7 +279,11 @@ Approaches to coffee have varied. The extremely hardcore will bring their own ge
 
 ### Networking
 
-## Volunteers for extra help during the event
+## Team
+
+### Volunteers
+
+### Internships / Buddy system
 
 ## FAQ
 
