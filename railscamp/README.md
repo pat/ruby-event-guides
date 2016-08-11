@@ -185,7 +185,13 @@ When running a ballot, Ruby Australia committee should be given reserved places 
 
 ### Deadlines
 
+It's recommended that you have a deadline for ticket sales of a month prior to the event. This helps motivate people to buy their tickets sooner rather than later, as well as giving you a better idea of how your budget's looking at that point in time, _and_ makes it easier to confirm numbers with the venue and caterers.
+
 ### Scholarship / Diversity Tickets
+
+As part of ongoing efforts to increase the diversity of the Ruby community, scholarship tickets are usually made available for people who wouldn't otherwise be able to afford a Rails Camp ticket. Recent camps have had an application process for this, and then awarded the scholarships by their chosen metrics.
+
+There may be specific sponsorship funds available for this purpose - the Ruby Australia team will confirm. Otherwise, it's an excellent option for attracting camp-specific sponsors.
 
 ## Communication
 
