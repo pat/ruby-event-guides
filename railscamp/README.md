@@ -420,10 +420,12 @@ Once Show & Tell is over, then it's time for the organisers to make their final 
 
 - Does Ruby Australia have insurance that covers the event? Is additional insurance required?
 
+  Ruby Australia has insurance for all events run under its banner, which includes Rails Camps. It is _possible_ that you may require additional insurance if your venue requests it - if this happens, the Ruby Australia committee will be able to help you sort it out.
+
 - Do I *have to* charge GST?
 
   Yes. Your ticket prices must include GST. 10% of the ticket price is not yours to spend. Budget for this.
 
 - Where can I get hold of the @railscamp_au Twitter account details?
 
-  Contact the previous Rails Camp organisers. Ruby AU is working on a better thing for this.
+  Contact the previous Rails Camp organisers. Ruby Australia is working on a better thing for this.
