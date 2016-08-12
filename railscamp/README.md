@@ -30,6 +30,8 @@ Your first steps should be:
 
 Please keep in mind that previous organisers and the Ruby Australia committee will all be happy to provide feedback along the way.
 
+## All the details
+
 * [Venue Considerations](venue.md)
 * [Planning](planning.md)
 * [Tickets](tickets.md)
